@@ -8,11 +8,11 @@ This is a node.js chat application powered by SockJS and Express that provides t
 ---
 
 ## Features
-. User Register / Login
-. Note creation with RichText
-. Edit created notes
-. Delete created notes
-. Search notes feature
+- User Register / Login
+- Note creation with RichText
+- Edit created notes
+- Delete created notes
+- Search notes feature
 
 
 ---
