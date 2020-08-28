@@ -1,0 +1,31 @@
+html, body, #root{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Montserrat, sans-serif;
+   
+  
+}
+
+.ql-snow.ql-toolbar {
+  display: block;
+  background: #eaecec;
+  border-top-left-radius: 0.5em;
+  border-top-right-radius: 0.5em;
+}
+
+.ql-container {
+  border-bottom-left-radius: 0.5em;
+  border-bottom-right-radius: 0.5em;
+  background: #fefcfc;
+}
+
+.app .ql-bubble .ql-editor {
+  border: 1px solid #ccc;
+  border-radius: 0.5em;
+}
+
+.ql-editor {
+  min-height: 50em;
+}
+
