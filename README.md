@@ -5,6 +5,10 @@ FireNote APP
 
 This is a node.js and react application to create notes and save them in database, the user can make a new account, and create his own notes easily.
 
+### Live test [Live Test](https://javascript-had-cli.herokuapp.com/)
+
+
+
 
 ![Soft](https://i.imgur.com/d0e6v0f.png)
 
