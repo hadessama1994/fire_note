@@ -1,10 +1,11 @@
 FireNote APP
 ============
-[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IgorAntun/node-chat) 
+![GitHub repo size](https://img.shields.io/github/repo-size/hadessama1994/fire_note) ![npm](https://img.shields.io/npm/v/react) ![GitHub language count](https://img.shields.io/github/languages/count/hadessama1994/fire_note)
+
 
 This is a node.js and react application to create notes and save them in database, the user can make a new account, and create his own notes easily.
 
-![Chat Preview](http://i.imgur.com/lgRe8z4.png)
+![Preview](https://imgur.com/OLHlZMw) 
 
 ---
 
