@@ -2,7 +2,7 @@ FireNote APP
 ============
 [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/IgorAntun/node-chat) 
 
-This is a node.js chat application powered by SockJS and Express that provides the main functions you'd expect from a chat, such as emojis, private messages, an admin system, etc.
+This is a node.js and react application to create notes and save them in database, the user can make a new account, and create his own notes easily.
 
 ![Chat Preview](http://i.imgur.com/lgRe8z4.png)
 
