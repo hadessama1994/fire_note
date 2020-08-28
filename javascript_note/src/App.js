@@ -1,4 +1,4 @@
-import React, { Fragment } from 'react';
+import React, { Fragment, useEffect } from 'react';
 import {Notification, Section, Navbar, Button} from 'rbx';
 import './App.scss';
 import Header from './components/header/index'
@@ -8,7 +8,13 @@ import Card from './components/cards'
 import Sobre from './components/sobre'
 
 // <Header/>
-const App = () => (
+const App = () => {
+
+    useEffect(()=>{
+        document.title = "Fire Note App"
+    }, [])
+
+    return(
   
  <div> 
     
@@ -16,6 +22,6 @@ const App = () => (
   
 </div>
  
-)
+)}
 
 export default App;
