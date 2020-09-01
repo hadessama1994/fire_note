@@ -7,9 +7,6 @@ This is a node.js and react application to create notes and save them in databas
 
 ### Live test [Live Test](https://javascript-had-cli.herokuapp.com/)
 
-
-
-
 ![Soft](https://i.imgur.com/d0e6v0f.png)
 
 ---
@@ -30,6 +27,17 @@ Clone this repo to your desktop and run `npm install` to install all the depende
 ---
 
 ![Preview](https://i.imgur.com/OLHlZMw.png) 
+
+## Built With
+Major Features:
+
+- [React](https://pt-br.reactjs.org/) 
+- [Axios](https://github.com/axios/axios)
+- [Axios](https://github.com/expressjs/express)
+- [Bulma for React](https://dfee.github.io/rbx/) 
+- [ReactQuill (Rich text)](https://github.com/zenoamaro/react-quill) 
+- [React Burger Menu](https://github.com/negomi/react-burger-menu) 
+
 
 ## License
 >You can check out the full license [here](https://github.com/IgorAntun/node-chat/blob/master/LICENSE)
